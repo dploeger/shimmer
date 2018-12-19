@@ -8,7 +8,7 @@ I've been always a fan of E-Mail since I first knew it and I integrated it perfe
 
 Personally, I envy the [Inbox Zero](https://dev.to/dploeger/get-self-organized-using-inbox-zero-4h3o) methodology and still haven't found the perfect mail client.
 
-There are some clients around like Airmail or Spark, that embrace Inbox Zero, but they all lack in some certain aspects. And as they are propriatery, I can do nothing to change that.
+There are some clients around like Airmail or Spark, that embrace Inbox Zero, but they all lack in some certain aspects. And as they are proprietary, I can do nothing to change that.
 
 Besides this here. I call it "Shimmer" for the moment.
 
